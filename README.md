@@ -4,8 +4,8 @@
 ## Project Proposal Template:
 cvbbbc
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+### Section			   	      : 9 - Strontium
+### Group Members			    : Justin Nicko Robles, Riana Lariza Doria, Ibarra Lee Coro
 ### Date (Proposal Date)  : Nov 5, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
