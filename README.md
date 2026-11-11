@@ -10,6 +10,10 @@ cvbbbc
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
 
+This project aims to provide the Filipino fisherfol(or more generally those who rely on finishing as their source of income) with a reliable system that allows them to monitor, evaluate and determine the water quality in specific areas by analyzing key parameters such as PH levels, temperature, turbidity and more. Through all these measurements, the system can automatically assess whether a location is safe and suitable for fishing, or if a warning needs to be issued. 
+
+Advising fishermen to stay out of the water if conditions are hazardous helps protect both their livelihoods and personal safety.
+
 - A brief summary of the project description and the need for it.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
