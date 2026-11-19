@@ -16,7 +16,7 @@ Advising fishermen to stay out of the water if conditions are hazardous helps pr
 - This project would primarily help fisherfolk around the world to determine the safe fishing locations by analyzing key measurements related to the location.
 
 - System components:
-- Features:
+- Features: Providing the general safe locations based on the locations given. Gives the measurements (PH levels, Temperature, Turbidity, Dissolved Oxygen, and Fishing Presure) of a specific chosen location. Provides the general trends (Structure & Habitat, Seasonal Patterns, and Proper Baits & Lures) for fishes in a specific chosen location.
 - Expected outputs:
 - NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
