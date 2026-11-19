@@ -28,8 +28,8 @@ Advising fishermen to stay out of the water if conditions are hazardous helps pr
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+- Objective 1: help people identify pH levels, temperature, and turbidity of naturally occurring or manmade bodies of water
+- Objective 2: with that information, identify whether the body of water is safe for humans or any other living organism
+- Objective 3: ensure the survival, as well as the reproduction, of the living organisms that need these bodies of water to survive or avoid extinction
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
