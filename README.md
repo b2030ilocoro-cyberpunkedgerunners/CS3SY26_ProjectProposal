@@ -19,9 +19,8 @@ Advising fishermen to stay out of the water if conditions are hazardous helps pr
 - Features: The system analyzes whether the location is safe based on the information given (PH levels, Temperature, Turbidity, Dissolved Oxygen, and Fishing Pressure) based of a specific chosen location. 
 - Expected outputs: Gives the information about the location. Gives a determined answer (SAFE/NOT SAFE) based on the provided information.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+### Class Diagram:
+![UML Diagram](UML%20Diagram%20Whiteboard%20in%20Bright%20Orange%20Pastel%20Yellow%20White%20Minimal%20Gradient%20Style.png)
 
 ### Goals:
 
