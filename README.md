@@ -15,7 +15,7 @@ Advising fishermen to stay out of the water if conditions are hazardous helps pr
 
 - This project would primarily help fisherfolk around the world to determine the safe fishing locations by analyzing key measurements related to the location.
 
-- System components: The code will ask the player for the location and analyzes the current state as the class; location where it contains a relationship HAS A with class; info in which the fisherfolk can input to analyze as this class info has the attributes PH level, Temperature, Turbidity, Dissolved Oxygen, and Fishing Pressure. After determining it that same class would have the method that it would be checked through a safety check that is constant, which would tell the fishermen if it's safe or not.
+- System components: The code will ask the player for the location and analyzes the current state as the class; location where it contains a relationship HAS A with class; info in which the fisherfolk can input to analyze as this class info has the attributes PH level, Temperature, Turbidity, Dissolved Oxygen, and Fishing Pressure. After determining whether that same class has the method, the system runs a constant safety check to tell the fishermen if it is safe.
 - Features: The system analyzes whether the location is safe based on the information given (PH levels, Temperature, Turbidity, Dissolved Oxygen, and Fishing Presure) based of a specific chosen location. 
 - Expected outputs: Gives the information about the location. Gives a determined answer (SAFE/NOT SAFE) based on the provided information.
 
